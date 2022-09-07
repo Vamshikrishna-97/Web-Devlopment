@@ -1,5 +1,7 @@
 let employees = [
-    { id: 101, name: "vamsi", sal: 55000 },
+    { 
+        
+    id: 101, name: "vamsi", sal: 55000 },
     { id: 102, name: "Skyco vivek", sal: 35000 }
 ]
 let createEmployee = (emp,data) => {
